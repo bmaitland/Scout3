@@ -1,0 +1,23 @@
+.info-box {
+	background-color:black;
+	height:100px;
+	width:100px;
+}
+
+.row {
+	border-bottom: solid black 1px;
+}
+
+.time{
+	color:white;
+	text-align: center;
+}
+
+.league {
+	background-color: green;
+	vertical-align: bottom;
+	height:50px;
+	text-align:center;
+	color:white;
+}
+
